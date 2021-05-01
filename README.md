@@ -35,9 +35,9 @@ A* algorithm is utilized to find the optimal path between two points on the map.
 
 * Click on two points on the map or type out the streetnames that make up the intersection you are seeking for.
 <img width="963" alt="Screen Shot 2021-05-01 at 6 16 02 PM" src="https://user-images.githubusercontent.com/56233967/116796282-4b08e080-aaa9-11eb-83b6-052949363f9d.png">
-* Clear view of the path.
+- Clear view of the path.
 <img width="963" alt="Screen Shot 2021-05-01 at 6 16 02 PM" src="https://user-images.githubusercontent.com/56233967/116796282-4b08e080-aaa9-11eb-83b6-052949363f9d.png">
-* Simulate your travel (see directions): 
+- Simulate your travel (see directions): 
   https://user-images.githubusercontent.com/56233967/116796435-61fc0280-aaaa-11eb-902c-8713ce445f75.mov
   
 ## M4: Traveling Courier
