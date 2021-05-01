@@ -23,7 +23,7 @@ Potato Interactive Development Group Geographic Information System Mapping that 
 ### POI Filter
 * Select the point of interests(POI) you want to see.
 * You can check out the animation:
-* https://user-images.githubusercontent.com/56233967/116796192-b8684180-aaa8-11eb-93e1-c3106669ff72.mov
+  https://user-images.githubusercontent.com/56233967/116796192-b8684180-aaa8-11eb-93e1-c3106669ff72.mov
 <img width="1127" alt="Screen Shot 2021-05-01 at 6 06 06 PM" src="https://user-images.githubusercontent.com/56233967/116796094-e7ca7e80-aaa7-11eb-974b-596ce6487a0d.png">
 
 ### Help Button
@@ -38,7 +38,7 @@ A* algorithm is utilized to find the optimal path between two points on the map.
 * Clear view of the path.
 <img width="963" alt="Screen Shot 2021-05-01 at 6 16 02 PM" src="https://user-images.githubusercontent.com/56233967/116796282-4b08e080-aaa9-11eb-83b6-052949363f9d.png">
 * Simulate your travel (see directions): 
-https://user-images.githubusercontent.com/56233967/116796435-61fc0280-aaaa-11eb-902c-8713ce445f75.mov
+  https://user-images.githubusercontent.com/56233967/116796435-61fc0280-aaaa-11eb-902c-8713ce445f75.mov
   
 ## M4: Traveling Courier
 Embedded system to find the optimal path for a delivery routed.
