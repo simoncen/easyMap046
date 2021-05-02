@@ -1,5 +1,5 @@
 # easyMap046
-Potato Interactive Development Group Geographic Information System Mapping that runs on Linux OS
+Potato Interactive Development Group Geographic Information System Mapping App that runs on Linux OS.
 
 ## M2: Visualizing Interactive easyMap
 ### Map Selector
